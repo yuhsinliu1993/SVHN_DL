@@ -4,4 +4,4 @@
 - It can hit 78% accuracy with the test data for both sgd or adam method
 
 See the graphical analysis in the HW1.ipynb 
-# SVHN_DL
+
